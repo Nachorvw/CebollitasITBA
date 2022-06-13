@@ -312,6 +312,7 @@ iframe {
 #ver {
   margin-top: auto;
   margin-bottom: auto;
+  margin-left: 10px;
   width: 30px;
   height: 30px;
 }
