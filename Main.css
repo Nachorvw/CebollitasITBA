@@ -301,3 +301,17 @@ iframe {
   width: 100%;
   height: 400px;
 }
+#Login {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Boton_Login {
+  width: 30%;
+}
+#ver {
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 30px;
+  height: 30px;
+}
