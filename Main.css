@@ -316,3 +316,16 @@ iframe {
   width: 30px;
   height: 30px;
 }
+#contra_label {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 10px;
+}
+input[type="checkbox"] + label {
+  font-weight: bold;
+  line-height: 3em;
+  color: #ccc;
+}
+input[type="checkbox"]:checked + label {
+  color: #0fbf12;
+}
